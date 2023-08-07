@@ -1,8 +1,11 @@
 /* eslint-disable react/prop-types */
 import styles from "./CityList.module.css";
 import CityItem from "./CityItem";
+import { useCities } from "../contexts/CitiesContext";
 
-function CityList({ cities }) {
+function CityList() {
+  const { cities } = useCities();
+
   return (
     <ul className={styles.cityList}>
       {cities.map((city) => (
