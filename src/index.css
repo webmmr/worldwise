@@ -33,6 +33,11 @@ body {
   line-height: 1.6;
 }
 
+section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 label {
   font-size: 1.6rem;
   font-weight: 600;
@@ -67,12 +72,3 @@ input:focus {
   padding: 1rem 3rem;
   border-radius: 5px;
 }
-
-/*
-"importCSSModule": {
-    "prefix": "csm",
-    "scope": "javascript,typescript,javascriptreact",
-    "body": ["import styles from './${TM_FILENAME_BASE}.module.css'"],
-    "description": "Import CSS Module as `styles`"
-  },
-*/
