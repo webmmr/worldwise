@@ -7,8 +7,11 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+// const BASE_URL = "http://localhost:9000";
+
 // import initialData from "../../data/initialData";
+
+const BASE_URL = "https://worldwise-json.vercel.app"
 
 const initialData = {
   cities: [],
