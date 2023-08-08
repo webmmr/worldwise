@@ -73,7 +73,7 @@ function Form() {
           );
 
         setCityName(data.city || data.localy || "");
-        setCountry(data.country);
+        setCountry(data.countryName);
         setEmoji(convertToEmoji(data.countryCode));
       } catch (err) {
         setGeoPositionError(err.message);

@@ -37,26 +37,40 @@
       "id": 98443197
     },
     {
-      "cityName": "Kirfi",
-      "emoji": "🇳🇬",
-      "notes": "fdsfs",
-      "date": "2023-08-07T13:13:27.242Z",
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "notes": "It was the best trip ever, arguably.",
+      "date": "2023-08-08T06:24:53.911Z",
       "position": {
-        "lat": "10.479709686017635",
-        "lng": "10.395812988281252"
+        "lat": "27.78077164334822",
+        "lng": "85.34179687500001"
       },
-      "id": 98443203
+      "id": 98443198
     },
     {
-      "cityName": "Dhaka",
-      "emoji": "🇧🇩",
-      "notes": "test\n",
-      "date": "2023-08-07T15:20:05.059Z",
+      "cityName": "Besisahar",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "notes": "test",
+      "date": "2023-08-08T06:25:22.462Z",
       "position": {
-        "lat": "23.797910674481976",
-        "lng": "90.3790283203125"
+        "lat": "28.23301976999074",
+        "lng": "84.39147949218751"
       },
-      "id": 98443204
+      "id": 98443199
+    },
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "notes": "just a layover",
+      "date": "2023-08-08T06:26:52.111Z",
+      "position": {
+        "lat": "41.046216814520655",
+        "lng": "28.970947265625004"
+      },
+      "id": 98443200
     }
   ]
 }
